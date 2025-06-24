@@ -1,6 +1,8 @@
-# HI, I'M YASH
+<div align="center">
+  <h1>HI, I'M YASH</h1>
+  I am a creative full stack developer
+</div>
 
-I am a creative full stack developer
 
 <a href="mailto:yashdagar4557@gmail.com" style="background: #e74c3c; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 20px;">
 Get in touch
