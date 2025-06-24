@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdagar&label=Profile%20views&color=0e75b6&style=flat" alt="yashdagar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashdoesfullstack" target="blank"><img src="https://img.shields.io/twitter/follow/yashdoesfullstack?logo=twitter&style=for-the-badge" alt="yashdoesfullstack" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fullstackyash" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackyash?logo=twitter&style=for-the-badge" alt="fullstackyash" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI through RAG workflows and transformer architectures**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashdoesfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashdoesfullstack" height="30" width="40" /></a>
+<a href="https://twitter.com/fullstackyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fullstackyash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yoursyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoursyash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashdagar4557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashdagar4557" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash4556" height="30" width="40" /></a>
