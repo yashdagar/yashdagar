@@ -1,25 +1,121 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A creative full stack developer</h3>
+# HI, I'M YASH
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdagar&label=Profile%20views&color=0e75b6&style=flat" alt="yashdagar" /> </p>
+I am a creative full stack developer
 
-<p align="left"> <a href="https://twitter.com/fullstackyash" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackyash?logo=twitter&style=for-the-badge" alt="fullstackyash" /></a> </p>
+<a href="mailto:yashdagar4557@gmail.com" style="background: #e74c3c; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 20px;">
+Get in touch
+</a>
+  
+  <div align="right">
+    <img src="home_bg.webp" alt="3D Scene" width="300" style="border-radius: 15px; margin-top: -100px;"/>
+  </div>
+  
+</div>
 
-- 🌱 I’m currently learning **Generative AI through RAG workflows and transformer architectures**
+---
 
-- 👨‍💻 All of my projects are available at [yashdagar.netlify.app](yashdagar.netlify.app)
+## 📁 PROJECTS
 
-- 📫 How to reach me **yashdagar4557@gmail.com**
+### 🍔 ORDERKARO
+**Mobile App**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fullstackyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fullstackyash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yoursyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoursyash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashdagar4557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashdagar4557" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash4556" height="30" width="40" /></a>
-</p>
+Developed a freelance food delivery app with Flutter and Supabase, featuring offline data persistence with Hive for a seamless user experience, even with intermittent connectivity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div style="display: flex; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdagar&show_icons=true&theme=dark&locale=en" alt="yashdagar" /></p>
+---
+
+### 🌐 AWS DEHRADUN WEBSITE
+**Website**
+
+Engineered the official website for the AWS Dehradun community using React and Vite. Optimized for performance and SEO, achieving high Lighthouse scores by addressing LCP and prioritizing critical assets.
+
+<div style="display: flex; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
+
+---
+
+### 🏥 TECH ATRIOCARE WEBSITE
+**Website**
+
+As a Summer Intern, I led the development of the company website using a modern Next.js stack. My focus on UI/UX best practices and SEO enhancements resulted in a 25% increase in search engine visibility and higher user engagement.
+
+<div style="display: flex; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdagar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdagar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdagar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="50%"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+<h1>NEVER STOP CREATING</h1>
+</div>
+
+<div align="center" style="background: #0D1117; padding: 40px; border-radius: 15px; margin: 30px 0;">
+  
+  ### 💬 talk_to_me
+  **yashdagar4557@gmail.com**
+  
+  ### 📍 stalk_me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashdagar)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashdagar)
+  [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
+  
+  ---
+  
+  **Made with ❤️ by me**
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashdagar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
