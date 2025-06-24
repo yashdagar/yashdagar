@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>HI, I'M YASH</h1>
-  I am a creative full stack developer
+  <h1>HI, I'M YASH</h1> 
+  <p>I am a creative full stack developer</p>
+  <a href="mailto:yashdagar4557@gmail.com" style="background: #e74c3c; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 20px;">
+    Get in touch
+  </a>
 </div>
-
-
-<a href="mailto:yashdagar4557@gmail.com" style="background: #e74c3c; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 20px;">
-Get in touch
-</a>
   
   <div align="right">
     <img src="home_bg.webp" alt="3D Scene" width="300" style="border-radius: 15px; margin-top: -100px;"/>
@@ -54,19 +52,6 @@ As a Summer Intern, I led the development of the company website using a modern 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashdagar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdagar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdagar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="50%"/>
 </div>
 
 ---
