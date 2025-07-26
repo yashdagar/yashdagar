@@ -1,6 +1,6 @@
 # **Hi, I'm Yash** 👋
 
-[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](https://yashdagar.me/contact)
+[![Get in Touch](https://img.shields.io/badge/Get%20In%20Touch-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](https://yashdagar.me/#contact)
 
 <img src="home_bg.webp" alt="3D Scene" width="350" />
 
